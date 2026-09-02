@@ -1,5 +1,4 @@
-FROM hedgelab/catcher:latestMaria
-
+FROM hedgelab/catcher:latest
 USER root
 
 ARG PYVER=3.11.11
